@@ -1,3 +1,6 @@
 .DS_Store
 *.log
 node_modules/
+
+# local Claude settings
+.claude/settings.local.json
